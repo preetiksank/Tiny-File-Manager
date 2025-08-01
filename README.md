@@ -14,6 +14,12 @@
 
 ![Tiny File Manager](screenshot.gif)
 
+
+
+# Default username/password: admin/admin@123
+
+
+
 ✨ Hızlı Bakış
 Tiny File Manager, web üzerinden dosyalarınızı yönetmenizi sağlayan ultra hafif bir PHP uygulamasıdır. Tek bir .php dosyası ile çalışır, kurulumu yoktur — sadece yerleştir ve kullan. FTP'ye alternatif arayanlar, dosya yöneticisini doğrudan tarayıcıdan kullanmak isteyenler için birebir.
 
