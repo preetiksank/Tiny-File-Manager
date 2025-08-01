@@ -1,6 +1,6 @@
-📁 #Tiny File Manager
+ #Tiny File Manager
 
-🚀 Basit ama güçlü. Tek dosyada her şey. Sunucundaki dosyaları yönetmenin en hafif ve en pratik yolu.
+📁 Basit ama güçlü. Tek dosyada her şey. Sunucundaki dosyaları yönetmenin en hafif ve en pratik yolu.
 
 
 [![Live](https://img.shields.io/badge/Live-Online-brightgreen)](https://demo.sitendomain.com)
