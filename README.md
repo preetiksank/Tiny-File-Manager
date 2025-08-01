@@ -1,6 +1,8 @@
 📁 Tiny File Manager
 🚀 Basit ama güçlü. Tek dosyada her şey. Sunucundaki dosyaları yönetmenin en hafif ve en pratik yolu.
 
+![Tiny File Manager](screenshot.gif)
+
 ✨ Hızlı Bakış
 Tiny File Manager, web üzerinden dosyalarınızı yönetmenizi sağlayan ultra hafif bir PHP uygulamasıdır. Tek bir .php dosyası ile çalışır, kurulumu yoktur — sadece yerleştir ve kullan. FTP'ye alternatif arayanlar, dosya yöneticisini doğrudan tarayıcıdan kullanmak isteyenler için birebir.
 
